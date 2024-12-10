@@ -31,3 +31,5 @@
           <li><strong>E-mail:</strong> <a href="mailto:samueldavidpazferreira@gmail.com">samueldavidpazferreira@gmail.com</a></li>
       </ul>
       <p>Obrigado por passar por aqui! 🚀</p>
+
+  ![snake gif](https://github.com/SamuelDavidPazFerreira/SamuelDavidPazFerreira/blob/output/github-contribution-grid-snake.svg)
