@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Samuel!
 
 Sou um estudante de 20 anos, atualmente estagiando como Engenheiro de Software no Itaú, onde busco crescer e aprimorar minhas habilidades. Estou apaixonado por tecnologia e desenvolvimento, e dedico meu tempo ao aprendizado constante.
 
