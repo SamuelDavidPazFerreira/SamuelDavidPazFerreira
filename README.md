@@ -14,7 +14,7 @@ Sou um estudante de 20 anos, atualmente estagiando como Engenheiro de Software n
 - Estudo contínuo em: **AWS, Spring Boot**
 
 ## 💡 Vamos nos conectar!
-- 🌐 Linkedin: [Samuel David](www.linkedin.com/in/samuel-david-paz)
+- 🌐 Linkedin: [Samuel David](https://www.linkedin.com/in/samuel-david-paz/)
 - 📧 Email: [samueldavidpazferreira@gmail.com]
 - 💻 Veja meus projetos aqui no GitHub!
 
