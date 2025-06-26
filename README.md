@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Samuel!
 
-Sou um estudante de 20 anos, atualmente estagiando como Engenheiro de Software no Itaú, onde busco crescer e aprimorar minhas habilidades. Estou apaixonado por tecnologia e desenvolvimento, e dedico meu tempo ao aprendizado constante.
+Sou um estudante de 21 anos, atualmente estagiando como Engenheiro de Software no Itaú, onde busco crescer e aprimorar minhas habilidades. Estou apaixonado por tecnologia e desenvolvimento, e dedico meu tempo ao aprendizado constante.
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Análise e desenvolvimento de Sistema na Faculdade Senac.
@@ -10,7 +10,7 @@ Sou um estudante de 20 anos, atualmente estagiando como Engenheiro de Software n
 
 ## 💼 Minhas habilidades
 - Linguagens: **Java, Python, HTML, CSS**
-- Ferramentas: **Git, GitHub**
+- Ferramentas: **Git, GitHub, GitFlow**
 - Estudo contínuo em: **AWS, Spring Boot**
 
 ## 💡 Vamos nos conectar!
