@@ -1,17 +1,15 @@
 # 👋 Olá, eu sou Samuel!
 
-Sou um estudante de 21 anos, atualmente estagiando como Engenheiro de Software no Itaú, onde busco crescer e aprimorar minhas habilidades. Estou apaixonado por tecnologia e desenvolvimento, e dedico meu tempo ao aprendizado constante.
+Sou um estudante de 22 anos, atualmente estou atuando como Engenheiro de Dados no Itaú, onde busco crescer e aprimorar minhas habilidades. Estou apaixonado por tecnologia e desenvolvimento, e dedico meu tempo ao aprendizado constante.
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Análise e desenvolvimento de Sistema na Faculdade Senac.
-- 🌱 No momento, estou aprendendo **Orientação a Objetos com Java** e me aprofundando no ecossistema AWS, com planos de conquistar a certificação **AWS Developer**.
-- ⚡ Próximos passos: Aprender **Spring Boot** e continuar evoluindo como desenvolvedor.
-- 🎭 Nos momentos livres: gosto de estudar temas como filosofia, assistir séries e animes.
+- 🌱 No momento, estou aprofundando no ecossistema AWS, com planos de conquistar a certificação **AWS Developer**.
 
 ## 💼 Minhas habilidades
 - Linguagens: **Java, Python, HTML, CSS**
-- Ferramentas: **Git, GitHub, GitFlow**
-- Estudo contínuo em: **AWS, Spring Boot**
+- Ferramentas: **Git, GitHub, GitFlow, Terraform**
+- Estudo contínuo em: **AWS, Spark/Pyspark**
 
 ## 💡 Vamos nos conectar!
 - 🌐 Linkedin: [Samuel David](https://www.linkedin.com/in/samuel-david-paz/)
